@@ -18,14 +18,10 @@ Also, changes any read.csv() to local directory path
 
 ### Prerequisites Libraries
 
-Sckit-Learn
-  
-Seaborn
-  
-keras
-  
-wordcloud
-
+* Sckit-Learn
+* Seaborn
+* keras
+* wordcloud
 
 ## Contributing
 
