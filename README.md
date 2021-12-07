@@ -41,7 +41,9 @@ This is an Assignment from course CSCE320
 
 ## Acknowledgments
 
-* Dataset - https://www.kaggle.com/shivamb/netflix-shows/
-*         - https://nlp.stanford.edu/projects/glove/
-* Code reference - https://www.kaggle.com/niharika41298/netflix-visualizations-recommendation-eda
-*                - https://www.kaggle.com/rodsaldanha/multilabel-category-prediction
+* Dataset:
+  * https://www.kaggle.com/shivamb/netflix-shows/
+  * https://nlp.stanford.edu/projects/glove/
+* Code reference:
+  * https://www.kaggle.com/niharika41298/netflix-visualizations-recommendation-eda
+  * https://www.kaggle.com/rodsaldanha/multilabel-category-prediction
